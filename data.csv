@@ -1,0 +1,4 @@
+ArtRegimen,DurationOnArt,CD4Count,ViralLoad,Gender,BMI,AgeAtArtStart,FamilyHistoryDiabetes,Lifestyle,DiabetesOnsetAge
+Spegra,3,600,50,Male,23,24,True,sedentary,42
+Biktarvy,2,500,100,Female,21,25,False,active,50
+Atripla,5,400,200,Male,26,22,True,sedentary,38
